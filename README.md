@@ -1,5 +1,5 @@
 # BaseballDetection
-Date : 109 / 06 / 19
+Date : 2020 / 06 / 19
 
 # Motivation & Purpose
 Side Project - Baseball Detection
